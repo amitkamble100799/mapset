@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h2{
+    color:brown;
+}
+pre{
+    color: blue;
+    font-size: 24px;
+}
+#p1{
+    color: aqua;
+}
+#p2{
+    color:blueviolet;
+}
+span{
+    color: darkgray;
+}
